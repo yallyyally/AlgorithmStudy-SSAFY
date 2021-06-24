@@ -30,5 +30,23 @@
 🔧 **커밋규칙**
 * 프로그래머스 문제 : `PRO_주차` (ex. `PRO_6_4` : 6월 4주차일경우)
 * 백준 문제 : `BOJ_주차` (ex. `BOJ_6_4`)
-* SW expert 문제 : `SWEA_주차` (ex. `SWEA_6_4`)
+* SWEA 문제 : `SWEA_주차` (ex. `SWEA_6_4`)
 * README.md 수정 : `update readme`
+
+## Progress
+
+### 백준
+```
+<6월 4주차 (2021.06.17 ~ 2021.06.24)>
+1) 1956 운동 (Floyd-Warshall)
+2) 9205 맥주 마시면서 걸어가기 (Floyd-Warshall, BFS)
+3) 9372 상근이의 여행 (그래프 이론, Tree)
+4) 11403 경로 찾기 (Floyd-Warshall)
+5) 20040 사이클 게임 (분리 집합)
+
+```
+### 프로그래머스
+
+
+### SWEA
+
