@@ -8,7 +8,7 @@
 * [신준희](https://github.com/yallyyally)
 * [송지연](https://github.com/Jiyeon526)
 * [노영주](https://github.com/Y0ungZ)
-* [이종현](https://github.com/kepler5310)
+* [이종현](https://github.com/kepler53)
 
 ## Rules
 
