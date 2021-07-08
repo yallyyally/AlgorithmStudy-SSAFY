@@ -92,7 +92,7 @@ class Solution {
 
 		}
 		//		일단 정렬 ////이거 getResult에서 해주면 터짐
-        // 이유 ? query가 10만이고 map 에 올 수 있는 가짓수는 3*3*3*3 = 81 이라서 중복되는 쿼리가 생김.
+        // 이유 ? query가 10만이고 map 에 올 수 있는 가짓수는 그것보다 적어서 중복되는 쿼리가 생김.
         for(String str : map.keySet()){
             Collections.sort(map.get(str));
         }
