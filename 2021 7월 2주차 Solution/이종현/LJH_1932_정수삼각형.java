@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class boj_1932_정수삼각형 {
+public class LJH_1932_정수삼각형 {
 
     static int[][] arr;
     static int[][] dp;
